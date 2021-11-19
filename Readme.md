@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 codigo 1
 codigo 5
 codigo 6
@@ -15,3 +14,7 @@ codigo 15
 codigo a
 codigo b
 codigo c
+
+pic.jpg
+pic2.jpg
+pic3jpg
