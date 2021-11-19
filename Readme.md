@@ -22,3 +22,5 @@ pic3jpg
 codigo 78
 codigo 90
 codigo 120
+cdigo 65
+codigo 56
