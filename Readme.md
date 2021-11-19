@@ -12,3 +12,7 @@ codigo 12
 codigo a
 codigo b
 codigo c
+
+pic.jpg
+pic2.jpg
+pic3jpg
