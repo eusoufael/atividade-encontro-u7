@@ -10,10 +10,12 @@ codigo 12
 codigo 13-jlk
 codigo 14
 codigo 15
+codigo 16
+codigo 17
 =======
 codigo a-8
 codigo b
-codigo c
+codigo c-12
 
 pic5.jpg
 pic2.jpg
