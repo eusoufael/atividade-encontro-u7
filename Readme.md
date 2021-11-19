@@ -14,6 +14,8 @@ codigo 15
 codigo a
 codigo b
 codigo c
+codigo g
+codigo h
 
 pic.jpg
 pic2.jpg
