@@ -18,3 +18,7 @@ codigo c
 pic5.jpg
 pic2.jpg
 pic3jpg
+
+codigo 78
+codigo 90
+codigo 120
