@@ -4,17 +4,17 @@ codigo 6
 codigo 7
 codigo 8
 codigo 9
-codigo 10
+codigo 10-abc
 codigo 11
 codigo 12
-codigo 13
+codigo 13-jlk
 codigo 14
 codigo 15
 =======
-codigo a
+codigo a-8
 codigo b
 codigo c
 
-pic.jpg
+pic5.jpg
 pic2.jpg
 pic3jpg
