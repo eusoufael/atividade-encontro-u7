@@ -17,7 +17,6 @@ codigo a-8
 codigo b
 codigo c-12
 
-
 pic.jpg
 pic2.jpg
 pic3jpg
@@ -28,3 +27,8 @@ codigo g
 codigo h
 
 
+codigo 78
+codigo 90
+codigo 120
+cdigo 65
+codigo 56
